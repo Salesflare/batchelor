@@ -1,6 +1,6 @@
 {
   "name": "@salesflare/batchelor",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "A lovely little Node.js module to perform batch requests with the Google REST API",
   "main": "./lib/batchelor",
   "private": false,
